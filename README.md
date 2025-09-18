@@ -43,7 +43,7 @@ Clone the repository:
 
 Bash
 
-git clone https://github.com/imaroraanmol/Bitcoin-Forecast-XGB.Compass.AI.git
+git clone https://github.com/imaroraanmol/Bitcoin-Forecast-XGB-Compass.AI.git
 cd Bitcoin-Forecast-XGB.Compass.AI
 Install the dependencies:
 
